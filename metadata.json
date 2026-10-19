@@ -1,0 +1,8 @@
+{
+  "name": "Remix Sistema  de Gerenciamento Biblioteca Valdiva Colaço",
+  "description": "Software escolar para gestão completa de acervo, empréstimos, devoluções e controle de disponibilidade de livros.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
